@@ -1,0 +1,11 @@
+C:\Users\user446\source\repos\PingCheckServerDown\PingCheckServerDown\bin\Debug\PingCheckServerDown.exe.config
+C:\Users\user446\source\repos\PingCheckServerDown\PingCheckServerDown\bin\Debug\PingCheckServerDown.exe
+C:\Users\user446\source\repos\PingCheckServerDown\PingCheckServerDown\bin\Debug\PingCheckServerDown.pdb
+C:\Users\user446\source\repos\PingCheckServerDown\PingCheckServerDown\obj\Debug\PingCheckServerDown.csproj.AssemblyReference.cache
+C:\Users\user446\source\repos\PingCheckServerDown\PingCheckServerDown\obj\Debug\PingCheckServerDown.csproj.SuggestedBindingRedirects.cache
+C:\Users\user446\source\repos\PingCheckServerDown\PingCheckServerDown\obj\Debug\PingCheckServerDown.Form1.resources
+C:\Users\user446\source\repos\PingCheckServerDown\PingCheckServerDown\obj\Debug\PingCheckServerDown.Properties.Resources.resources
+C:\Users\user446\source\repos\PingCheckServerDown\PingCheckServerDown\obj\Debug\PingCheckServerDown.csproj.GenerateResource.cache
+C:\Users\user446\source\repos\PingCheckServerDown\PingCheckServerDown\obj\Debug\PingCheckServerDown.csproj.CoreCompileInputs.cache
+C:\Users\user446\source\repos\PingCheckServerDown\PingCheckServerDown\obj\Debug\PingCheckServerDown.exe
+C:\Users\user446\source\repos\PingCheckServerDown\PingCheckServerDown\obj\Debug\PingCheckServerDown.pdb

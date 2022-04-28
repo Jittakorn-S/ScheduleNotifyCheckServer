@@ -1,0 +1,10 @@
+C:\Users\user446\Desktop\CheckStatusServer\PingCheckServerDown\bin\Release\PingCheckServerDown.exe.config
+C:\Users\user446\Desktop\CheckStatusServer\PingCheckServerDown\bin\Release\PingCheckServerDown.exe
+C:\Users\user446\Desktop\CheckStatusServer\PingCheckServerDown\bin\Release\PingCheckServerDown.pdb
+C:\Users\user446\Desktop\CheckStatusServer\PingCheckServerDown\obj\Release\PingCheckServerDown.csproj.SuggestedBindingRedirects.cache
+C:\Users\user446\Desktop\CheckStatusServer\PingCheckServerDown\obj\Release\PingCheckServerDown.Form1.resources
+C:\Users\user446\Desktop\CheckStatusServer\PingCheckServerDown\obj\Release\PingCheckServerDown.Properties.Resources.resources
+C:\Users\user446\Desktop\CheckStatusServer\PingCheckServerDown\obj\Release\PingCheckServerDown.csproj.GenerateResource.cache
+C:\Users\user446\Desktop\CheckStatusServer\PingCheckServerDown\obj\Release\PingCheckServerDown.csproj.CoreCompileInputs.cache
+C:\Users\user446\Desktop\CheckStatusServer\PingCheckServerDown\obj\Release\PingCheckServerDown.exe
+C:\Users\user446\Desktop\CheckStatusServer\PingCheckServerDown\obj\Release\PingCheckServerDown.pdb
